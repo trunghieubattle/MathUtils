@@ -12,5 +12,5 @@
 ## Connect me via
 1. [Github](https://github.com/trunghieubattle)
 2. [Facebook]
-
-#### 2020 by Trung Hieu
+3. [Email](trantrunghieu1430@gmail.com)
+#### 2020 by Trung Hieu | FPT University - HCMC Campus
