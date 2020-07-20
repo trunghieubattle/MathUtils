@@ -39,7 +39,7 @@ public class MathUtilTest {
       //quen biết cần phải làm gì
       public void testFailedCases(){
           //tao kì vọng mày ném ra ngoại lệ thì coi như code của mày ngon
-//          computeFactorial(-5);
+          computeFactorial(-5);
           computeFactorial(16);
           //ngoại lệ ko phải là 1 value để có thể so sánh dc
           //nên mình ko có xài hàm assertEqual() dc

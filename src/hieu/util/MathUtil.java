@@ -17,7 +17,7 @@ public class MathUtil {
     //nt chỉ tối đa 2 ký tự, nên ta xia long mới an toàn
     //thực ra 15! là to lắm nẹn tính giai thừa từ 16 trở lại
     public static long computeFactorial(int n){
-        if (n< 0) {
+        if (n< 0||n>15) {
             throw new IllegalArgumentException("Invalid number >=0");
         }
         long result = 1;
